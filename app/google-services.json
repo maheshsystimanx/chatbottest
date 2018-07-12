@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "339959203608",
+    "firebase_url": "https://prime-cosmos-137109.firebaseio.com",
+    "project_id": "prime-cosmos-137109",
+    "storage_bucket": "prime-cosmos-137109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339959203608:android:36c4f7cf7654a8e2",
+        "android_client_info": {
+          "package_name": "com.systimanx.chatbottest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339959203608-ans1o3r6tf065socc7mv9t1fh6fl82p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7c3Grl4vh76TxVUE9rD1N7UZa4LjdB10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339959203608:android:2af8a6ed79295da7",
+        "android_client_info": {
+          "package_name": "com.systimanx.firebasedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339959203608-ans1o3r6tf065socc7mv9t1fh6fl82p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7c3Grl4vh76TxVUE9rD1N7UZa4LjdB10"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

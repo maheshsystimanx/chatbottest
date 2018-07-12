@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">339959203608-ans1o3r6tf065socc7mv9t1fh6fl82p4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://prime-cosmos-137109.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">339959203608</string>
+    <string name="google_api_key" translatable="false">AIzaSyD7c3Grl4vh76TxVUE9rD1N7UZa4LjdB10</string>
+    <string name="google_app_id" translatable="false">1:339959203608:android:36c4f7cf7654a8e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD7c3Grl4vh76TxVUE9rD1N7UZa4LjdB10</string>
+    <string name="google_storage_bucket" translatable="false">prime-cosmos-137109.appspot.com</string>
+    <string name="project_id" translatable="false">prime-cosmos-137109</string>
+</resources>
